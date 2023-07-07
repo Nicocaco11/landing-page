@@ -7,3 +7,4 @@ Actualmente cuenta con:
 - Navbar
 - Sección hero
 - Info
+- Cards (beneficios)
