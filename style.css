@@ -152,3 +152,59 @@ color: #252525;
     -ms-border-radius: 30px;
     -o-border-radius: 30px;
 }
+/**/
+/******** Sección contactos ********/
+/**/
+#contactos{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: left;
+    justify-content: left;
+    background-color: whitesmoke;
+    border: 5px solid transparent;
+    border-color: #3a97d4;
+    height: 350px;
+    width: 800px;
+    gap: 5px;
+    padding: 30px;
+    margin-top: 300px;
+    margin-left: 500px;
+    margin-bottom: 300px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+#contactos h2{
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+#contactos h3{
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+
+#contactos p{
+    font-size: 1rem;
+}
+
+.info-contactos img{
+    height: 30px;
+    width: 30px;
+}
+
+.info-contactos{
+    display: flex;
+    gap: 20px;
+}
+
+#memardo{
+    justify-content: left;
+    height: 300px;
+    width: 300px;
+    margin-left: 20px;
+}
