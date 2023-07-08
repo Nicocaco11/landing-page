@@ -208,3 +208,16 @@ color: #252525;
     width: 300px;
     margin-left: 20px;
 }
+/**/
+/******** Sección contactos ********/
+/**/
+footer{
+    color: white;
+    text-align: right;
+    margin-right: 30px;
+}
+
+footer img{
+    height: 30px;
+    width: 30px;
+}
