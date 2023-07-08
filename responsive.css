@@ -1,6 +1,7 @@
 @media (max-width: 992px){
-    nav{
-
+    nav ul{
+    gap: 50px;
+    margin-left: 350px;
     }
     
     #info{
