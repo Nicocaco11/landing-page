@@ -8,3 +8,6 @@ Actualmente cuenta con:
 - Sección hero
 - Info
 - Cards (beneficios)
+- Contactos
+- footer
+- Responsive para tablets y celulares
