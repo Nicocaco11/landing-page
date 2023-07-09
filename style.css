@@ -124,10 +124,10 @@ ul{
 
 #cards{
     box-shadow: 10px 3px 2px 3px rgba(34, 24, 55, 0.3);
-justify-content: space-around;
-text-align: center;
-display: flex;
-height: 500px;
+    justify-content: space-around;
+    text-align: center;
+    display: flex;
+    height: 500px;
 }
 
 #cards img{
@@ -135,9 +135,9 @@ height: 500px;
 }
 
 #cards h2{
-padding: 30px;
-font-size: 30px;
-color: #252525;
+    padding: 30px;
+    font-size: 30px;
+    color: #252525;
 }
 
 #cards p{

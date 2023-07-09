@@ -21,3 +21,45 @@
         margin-left: 100px;
     }
 }
+
+@media (max-width: 576px){
+
+    nav ul{
+        gap: 30px;
+        margin-left: 200px;
+        }
+
+    #ctrl{
+        max-width: 48%;
+    }
+
+    .button{
+        font-size: 9px;
+        flex-direction: column;
+    }
+
+    #hero-info h1{
+        font-size: 20px;
+    }
+
+    #hero-info p{
+        font-size: 15px;
+    }
+
+    #cards{
+        height: 1900px;
+    }
+
+    #contactos{
+        margin-top: -300px;
+        margin-left: 45px;
+        width: 500px;
+    }
+
+    #memardo{
+        margin-top: 100px;
+        margin-left: -100px;
+        height: 200px;
+        width: 200px;
+    }
+}
